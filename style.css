@@ -684,12 +684,10 @@ p {
     max-width: 600px;
     margin: auto auto auto auto;
 }
-
 .h1 {
     font-size: 20px;
     font-family: "Open Sans";
 }
-
 .cta-hero {
     margin-top: 22px;
     color: #FFFFFF!important;
@@ -698,7 +696,6 @@ p {
     font-size: 16px;
     font-weight: 700;
 }
-
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
@@ -739,7 +736,6 @@ h4 {
     color: #FFFFFF!important;
 }
 .black {
-    color: #171717;
     font-size: 18px;
 }
 
