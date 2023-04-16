@@ -712,6 +712,9 @@ h3 {
     font-weight: 700;
     color: #333333!important;
 }
+.citation-author{
+    color: #000000;
+}
 
 .med-width-whitespace {
     max-width: 800px;
