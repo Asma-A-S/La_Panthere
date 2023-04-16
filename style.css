@@ -787,6 +787,12 @@ h4 {
     color: white!important;
     text-shadow: 0 0 10px black;
 }
+.tc-black{
+    text-shadow: 0 0 10px #cccccc;
+}
+.text-resize{
+    font-size: 18px;
+}
 
 .btn-atomic-tangerine {
     background: #F3976C;
